@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leautp
 - 👀 I’m interested in networks, automations, sensors, health...
-- 🌱 I’m currently learning about systems
+- 🌱 I’m currently hacking around air sensors (and passing exams)
 - 💞️ I’m looking to collaborate on (you tell me :)
 - 📫 Reach me @ t.me/th_ez
